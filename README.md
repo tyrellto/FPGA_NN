@@ -1,3 +1,6 @@
+# NOTE
+This is a fork from Wentao Cui, and implemented for the Altera Cyclone V FPGA (DE1 SoC board)
+
 # FGPA_NN
 
 A neural network built in Verilog for the DE1-SoC FPGA board for handwritten digit recognition.
